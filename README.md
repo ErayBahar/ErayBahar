@@ -31,6 +31,6 @@ I'm a freshman Computer Science student with a strong passion for all things cod
 ### 📫 How to Reach Me
 - **Email**: eraybahar24@gmail.com
 - **LinkedIn**: [linkedin.com/in/eraybahar](https://linkedin.com/in/eraybahar)  
-- **GitHub**: [GitHub](https://github.com/ErayBahar)
+- **GitHub**: [(https://github.com/ErayBahar)](https://github.com/ErayBahar)
 
 ---
