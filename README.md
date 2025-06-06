@@ -16,7 +16,7 @@ I'm a freshman Computer Science student with a strong passion for all things cod
 
 ### 🌱 I’m Currently Learning...
 - **C++**
-- **Django** (already built a portfolio tracker!)
+- **Python** (Focusing on Data Science and Django)
 - **REST APIs, HTML/CSS/JS** to level up my web apps
 
 ---
