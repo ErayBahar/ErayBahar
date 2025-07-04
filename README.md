@@ -6,11 +6,10 @@ I'm a freshman Computer Science student with a strong passion for all things cod
 ---
 
 ### 👀 I’m Interested In...
-- Full-stack development
 - Data science & machine learning projects
 - Open-source contributions
 - Building tools that track portfolios, analyze stocks, or make life easier
-- Challenging myself with C++, Python, Java
+- Challenging myself with C++, Python
 
 ---
 
