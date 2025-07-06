@@ -32,5 +32,6 @@ I'm a freshman Computer Science student with a strong passion for all things cod
 - **LinkedIn**: [linkedin.com/in/eraybahar](https://linkedin.com/in/eraybahar)  
 - **GitHub**: [https://github.com/ErayBahar](https://github.com/ErayBahar)
 - **Upwork**: [https://www.upwork.com/freelancers/~01c8bd48dc564a6a84?mp_source=share](https://www.upwork.com/freelancers/~01c8bd48dc564a6a84?mp_source=share)
+- **Medium**: [https://medium.com/@eraybahar24]
 
 ---
