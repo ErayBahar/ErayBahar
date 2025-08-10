@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @ErayBahar
 
 ### 💻 Who Am I?
-I'm a freshman Computer Science student with a strong passion for all things code, data, and design. Currently on a mission to **build cool things**, and learn from every step.
+I'm a freshman Computer Science student with a strong passion for all things code, data, and design.
 
 ---
 
@@ -15,8 +15,8 @@ I'm a freshman Computer Science student with a strong passion for all things cod
 
 ### 🌱 I’m Currently Learning...
 - **C++**
-- **Python** (Focusing on Data Science and Django)
-- **REST APIs, HTML/CSS/JS** to level up my web apps
+- **Python** (Focusing on Data Science and Machine Learning)
+- **REST APIs**
 
 ---
 
