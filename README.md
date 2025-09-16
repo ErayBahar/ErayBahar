@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @ErayBahar
 
 ### 💻 Who Am I?
-I'm a freshman Computer Science student with a strong passion for all things code, data, and design.
+I'm a freshman Computer Science student with a strong passion for data, finance, AI and algorithmic trading.
 
 ---
 
@@ -10,6 +10,7 @@ I'm a freshman Computer Science student with a strong passion for all things cod
 - Open-source contributions
 - Building tools that track portfolios, analyze stocks, or make life easier
 - Challenging myself with C++, Python
+- Algorithmic Trading
 
 ---
 
@@ -17,6 +18,9 @@ I'm a freshman Computer Science student with a strong passion for all things cod
 - **C++**
 - **Python** (Focusing on Data Science and Machine Learning)
 - **REST APIs**
+- **TensorFlow**
+- **Keras**
+- **PyTorch**
 
 ---
 
